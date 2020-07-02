@@ -1,0 +1,10 @@
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\bin\Debug\Safeauto.txt organizer.exe.config
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\bin\Debug\Safeauto.txt organizer.exe
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\bin\Debug\Safeauto.txt organizer.pdb
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\obj\Debug\Safeauto.txt organizer.csprojAssemblyReference.cache
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\obj\Debug\Safeauto.txt_organizer.Form1.resources
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\obj\Debug\Safeauto.txt_organizer.Properties.Resources.resources
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\obj\Debug\Safeauto.txt organizer.csproj.GenerateResource.cache
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\obj\Debug\Safeauto.txt organizer.csproj.CoreCompileInputs.cache
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\obj\Debug\Safeauto.txt organizer.exe
+D:\safeauto code\Safeauto.txt organizer\Safeauto.txt organizer\obj\Debug\Safeauto.txt organizer.pdb
